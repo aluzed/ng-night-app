@@ -10,5 +10,5 @@ import { PageComponent } from './components/page/page.component';
   styleUrl: './app.component.css',
 })
 export class AppComponent {
-  title = 'first-ng-app';
+  title = 'ng-night-app';
 }
